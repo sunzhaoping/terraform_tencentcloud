@@ -1,0 +1,7 @@
+*.ini
+*terraform.tfstate.d/
+.terraform
+*.swp
+*.swo
+!.gitkeep
+go.sum
